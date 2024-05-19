@@ -108,7 +108,7 @@ This is a social website built using Django, a high-level Python web framework, 
     ```shell
     python manage.py runserver
     ```
-8. Access the website at `http://localhost:8000` in your web browser.
+8. Access the website at `http://127.0.0.1:8000/` in your web browser.
 
 ### Windows
 1. Visit the [Python website](https://www.python.org/downloads/) to choose the appropriate version.
